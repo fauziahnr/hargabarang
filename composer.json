@@ -1,0 +1,12 @@
+{
+    "name": "gosmart/harga_barang",
+    "authors": [
+        { 
+            "name": "fauziahnr",
+            "email": "fauziyah.rahma50@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^6.5"
+    }
+}
