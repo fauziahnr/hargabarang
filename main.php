@@ -1,7 +1,7 @@
 <h2>Aplikasi Harga Barang</h2>
 <hr>
 <a href="tambah.php">Tambah Data</a>
-
+class="btn btn-primary btn-lg"
 
 <?php
 include "koneksi.php";
